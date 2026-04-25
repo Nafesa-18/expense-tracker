@@ -1,0 +1,17 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.4.165:5000
+[33mPress CTRL+C to quit[0m
+122.164.87.181 - - [22/Apr/2026 04:23:56] "GET / HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+162.216.149.11 - - [22/Apr/2026 05:30:01] code 400, message Bad request version ('À\x13À')
+162.216.149.11 - - [22/Apr/2026 05:30:01] "[31m[1m\x16\x03\x01\x05Æ\x01\x00\x05Â\x03\x03Çõâ2ÿË\x03Ëhà¯\x908\x0ciåW-^i0¢\x8bHIm[ß\x8a§Èb IîBõ\x8c¤@\x84\x91\x1e\x88E{C\x9b6¹bQÎ\x1b\x1bb§Ç\x17\x94!\x0d_eE\x00\x1aÀ+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+162.216.149.11 - - [22/Apr/2026 05:30:01] code 400, message Bad request version ('À(À$À\x14À')
+162.216.149.11 - - [22/Apr/2026 05:30:01] "[31m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03ÿ#I\x1fÛ\x16ë\x80v@\x86BH\x14ê\x12\x7f¢íêÊkU\x0bÚ*\x03Eê\x14¿`\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" 400 -
+127.0.0.1 - - [22/Apr/2026 06:00:02] "GET / HTTP/1.0" 200 -
