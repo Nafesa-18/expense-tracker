@@ -88,8 +88,7 @@ def home():
 <body>
 
 <div class="container">
-    <h1>💰 Expense Tracker</h1>
-
+ <h1>💰 Expense Tracker - CI/CD Working</h1>
     <form method="POST">
         <input name="name" placeholder="Expense">
         <input name="amount" placeholder="Amount">
